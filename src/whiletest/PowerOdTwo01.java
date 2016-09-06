@@ -20,7 +20,7 @@ public class PowerOdTwo01 {
 		}
 		
 		
-		System.out.println("2의 " + pow + "승은 " + result + "입니다.");
+		System.out.println("2의 " + pow + "제곱은 " + result + "입니다.");
 		
 		scanner.close();
 
