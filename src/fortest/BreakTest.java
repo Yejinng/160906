@@ -7,6 +7,7 @@ public class BreakTest {
 		int num = 0;
 		while (true)	{
 			
+			
 		}
 
 	}
